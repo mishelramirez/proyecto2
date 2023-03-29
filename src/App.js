@@ -13,7 +13,7 @@ function App() {
         <div className="card1">
           <Card
             titulo="Supervisor"
-            texto="Monitors activity to identify project <br/> road blocks"
+            texto="Monitors activity to identify project  road blocks"
             img="imagen1"
           />
         </div>
@@ -22,7 +22,7 @@ function App() {
             <Card
               titulo="Team Builder"
               texto="Scans our talent network to create the optimal team for your project"
-              src="src/assets/icon-supervisor.svg" />
+              img="imagen2"/>
           
           </div>
 
@@ -30,14 +30,14 @@ function App() {
             <Card
               titulo="Karma"
               texto=" Regularly evaluates our telent to ensure quality"
-              src="src/assets/icon-supervisor.svg" />
+              img="imagen3" />
           </div>
           </div>
         <div className="card4">
           <Card
             titulo="Calculator"
             texto="Uses data from past projects to provide better delivery estimates"
-            src="assets/http://www.w3.org/2000/svg"
+            img="imagen4"
           />
         </div>
       </div>

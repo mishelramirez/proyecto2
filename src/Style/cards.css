@@ -7,8 +7,34 @@
     font-size: 20px;
 }
 .imagen1{
-    background-image: url(http://localhost:3000/static/media/icon-supervisor.65a2a59….png);
-    width: 20px;
-    height: 20px;
+    background-image: url("/src/assets/icon-supervisor.png");
+    width: 40px;
+    height: 40px;
     background-size: contain;
+    float: right;
+    margin-right: 20px;
+}
+.imagen2{
+    background-image: url("/src/assets/icon-team-builder_1.png");
+    width: 40px;
+    height: 40px;
+    background-size: contain;
+    float: right;
+    margin-right: 20px;
+}
+.imagen3{
+    background-image: url("/src/assets/icon-karma_1.png");
+    width: 40px;
+    height: 40px;
+    background-size: contain;
+    float: right;
+    margin-right: 20px;
+}
+.imagen4{
+    background-image: url("/src/assets/icon-calculator.png");
+    width: 40px;
+    height: 40px;
+    background-size: contain;
+    float: right;
+    margin-right: 20px;
 }
