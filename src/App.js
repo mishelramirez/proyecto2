@@ -14,6 +14,7 @@ function App() {
           <Card
             titulo="Supervisor"
             texto="Monitors activity to identify project  road blocks"
+            texto2="road blocks"
             img="imagen1"
           />
         </div>
@@ -21,7 +22,8 @@ function App() {
           <div className="card2">
             <Card
               titulo="Team Builder"
-              texto="Scans our talent network to create the optimal team for your project"
+              texto="Scans our talent network to create the"
+              texto2=" optimal team for your project"
               img="imagen2"/>
           
           </div>
@@ -30,6 +32,7 @@ function App() {
             <Card
               titulo="Karma"
               texto=" Regularly evaluates our telent to ensure quality"
+              texto2=" quality"
               img="imagen3" />
           </div>
           </div>
@@ -37,6 +40,7 @@ function App() {
           <Card
             titulo="Calculator"
             texto="Uses data from past projects to provide better delivery estimates"
+            texto2="better delivery estimates"
             img="imagen4"
           />
         </div>
